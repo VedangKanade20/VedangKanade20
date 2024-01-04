@@ -1,5 +1,3 @@
-
-
 <img src ="https://github.com/VedangKanade20/VedangKanade20/assets/117008526/89329af3-82b4-46cd-ad58-0733561909ab">
 <h1 align="center">Hi 👋, I'm Vedang Kanade</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
@@ -23,13 +21,13 @@
 
 - ⚡ Fun fact **I am Funny, I guess(My humour is dead)**
 
-- 📄 Know about my Projects [Portfolio] (https://vedang-portfolio-latest-2023.vercel.app/)
+- 📄 Know about my Profile [Portfolio](https://vedang-portfolio-latest-2023.vercel.app/)
 
 </br>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/shashank._gupta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shashankgupta10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/shashank_@18_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/vedang__k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/vedang kanade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/vedangkanade)
 </br>
 
 <h2 align="left"> 📌 Tech Stack:</h2>
