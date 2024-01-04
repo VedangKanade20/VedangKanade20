@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I am Funny, I guess(My humour is dead)**
 
+- 📄 Know about my Projects [Portfolio] (https://vedang-portfolio-latest-2023.vercel.app/)
+
 </br>
 
 ## 🌐 Socials:
@@ -38,9 +40,6 @@
 <img src = "https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src = "https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src = "https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-<img src = "https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src = "https://img.shields.io/badge/Tensorflow-%23150458.svg?style=for-the-badge&logo=tensorflow&logoColor=orange">
 
 
 </div>
@@ -63,7 +62,7 @@
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
    <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
    <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
-   <img src="https://img.shields.io/badge/Passport.js-4EA94B?style=for-the-badge&logo=passport&logoColor=white&color=blue" align="center" alt="passport"/>
+   
  </div>
 </br>
 <div ><h3> 👨‍💻 Databases: </h3> 
