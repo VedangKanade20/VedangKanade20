@@ -84,6 +84,5 @@
 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangkanade20&show_icons=true&locale=en&layout=compact" alt="vedangkanade20" /></p>
 
+<p><img src ="https://github-readme-streak-stats.herokuapp.com/?user=VedangKanade20&theme=shades-of-purple&hide_border=false"><br/> </p>
 
-
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=VedangKanade20&theme=shades-of-purple&hide_border=false"><br/>
