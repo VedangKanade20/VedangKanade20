@@ -1,5 +1,5 @@
 
-<img src ="https://github.com/VedangKanade20/VedangKanade20/assets/117008526/89329af3-82b4-46cd-ad58-0733561909ab">
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn5lAg9XJZu28A9Mhoe67yq2lIbygA9hCvmRt7ss5xw&s">
 <h1 align="center">Hi 👋, I'm Vedang Kanade</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div align=center>
