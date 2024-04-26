@@ -1,5 +1,12 @@
 
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn5lAg9XJZu28A9Mhoe67yq2lIbygA9hCvmRt7ss5xw&s">
+<body style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn5lAg9XJZu28A9Mhoe67yq2lIbygA9hCvmRt7ss5xw&s');
+            background-size: cover;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            color: white;
+            margin: 0;
+            padding: 0;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Vedang Kanade</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div align=center>
