@@ -1,95 +1,35 @@
 
-<body style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn5lAg9XJZu28A9Mhoe67yq2lIbygA9hCvmRt7ss5xw&s');
-            background-size: cover;
-            background-position: center;
-            font-family: Arial, sans-serif;
-            color: white;
-            margin: 0;
-            padding: 0;">
-    <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Vedang Kanade</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div align=center>
  <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=VEDANG+KANADE...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
-<img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
+<img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif"> 💫 About Me:
+🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on Grinding DSA <br>🤝 I’m looking for help with Coding Contests, Hackathons<br>🌱 I’m currently learning NextJs<br>💬 Ask me about MERN Stack<br>⚡ Fun fact Coding for Hours>>>
 
-- 🔭 I’m currently working on [Full Stack Projects]
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 👨‍💻 All of my projects are available at [Github](github.com/VedangKanade20)
-
-- 💬 Ask me about **The MERN stack**.
-
-- 📫 How to reach me **vedangk20@gmail.com & kanadevedang2003@gmail.com**
-
-- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1mL3h3eMNiwfYUjeL0T1XLCLoppV2xOuk/view?usp=sharing)
-
-- ⚡ Fun fact **I am Funny, I guess(My humour is dead)**
-
-- 📄 Know about my Profile [Portfolio](https://vedang-portfolio-latest-2023.vercel.app/)
-
-
-</br>
 
 ## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vedang Kanade) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedang__k20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vedang Kanade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VedangKanade) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/vedang__k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/vedangkanade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/vedangkanade)
-</br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VedangKanade20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VedangKanade20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedangKanade20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left"> 📌 Tech Stack:</h2>
-</br>
-<div display="flex">
-<h2 align="left"> ⚡ Languages and Libraries:</h2>
-<img src = "https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src = "https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-<img src = "https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VedangKanade20&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-<br>
-<div display="flex">
-  <h3> 🖥️ FrontEnd: </h3>    
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
- <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
- <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
- <img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue&Color=black" align="center" alt="ejs">
- <img src = "https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="css3">
- <img src="https://img.shields.io/badge/Material UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=#00C7B7&color=red" align="center" alt="git"/>
- <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=#00C7B7&color=red" align="center" alt="git"/>
- <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
-</div>
-</br>
- <div ><h3> 👾 BackEnd: </h3> 
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-   <img src="https://img.shields.io/badge/Express.js-%23323330?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
-   <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
-   +
- </div>
-</br>
-<div ><h3> 👨‍💻 Databases: </h3> 
-   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black">
- </div>
- </br>
-   <div ><h3> ⚓️ Tools: </h3> 
-   <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=#00C7B7&color=red" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-%231572B6.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src = "https://img.shields.io/badge/Netlify-%23150458.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt = "netlify"/>
-   <img src = "https://img.shields.io/badge/Vercel-%23150458.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black" align="center" alt = "netlify"/>
- </div>
- </br>
- </br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VedangKanade20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangkanade20&show_icons=true&locale=en&layout=compact" alt="vedangkanade20" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=VedangKanade20&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<p><img src ="https://github-readme-streak-stats.herokuapp.com/?user=VedangKanade20&theme=shades-of-purple&hide_border=false"><br/> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->>
 
