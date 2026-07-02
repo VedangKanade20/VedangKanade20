@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vedang Kanade</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div align=center>
- <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=VEDANG+KANADE...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
+ <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=VEDANG+KANADE...;FULL+STACK+WEB+DEVELOPER;SOFTWARE+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif"> 💫 About Me:
