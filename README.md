@@ -1,42 +1,24 @@
-<h1 align="center">Hi there, I'm Vedang Kanade 👋</h1>
-<h3 align="center">Full Stack Developer • Backend-Heavy • Diving Deep into AI/ML</h3>
+<h1 align="center">Hi, I'm Vedang Kanade 👋</h1>
+<h3 align="center">Full Stack Software Developer • MERN / Next.js / FastAPI • Building Toward AI/ML</h3>
 
 <div align="center">
-  <img height="90" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+SeatSure+%F0%9F%8E%9F%EF%B8%8F+(Spring+Boot);Shipping+AI-Powered+Full+Stack+Apps;JWT+%2B+Concurrency+%2B+Clean+Architecture;Currently+exploring+Embeddings+%26+RAG" />
+  <img height="90" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer+%40+Ardra+Innovations;Full+Stack+%7C+REST+APIs+%7C+Cloud+Deployments;5%2B+Freelance+Projects+Delivered;Now+diving+deep+into+AI%2FML" />
 </div>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="330" align="right"/>
+  <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="300" align="right"/>
 </p>
 
 ## 💫 About Me
 
-- 🔭 Currently building **SeatSure** — a Spring Boot event ticket booking system with JWT auth & optimistic locking (`@Version`) for concurrent seat reservations
-- 🧠 Parallelly building a full-stack **AI project** — Next.js + Express.js + PostgreSQL + pgvector, with sentiment analysis, embeddings & a cosine-similarity recommender
-- 🌱 Deep-diving into **AI/ML fundamentals** — embeddings, vector search, RAG pipelines, and integrating LLM APIs (OpenAI/Gemini) into real products
-- 💻 Backend-first mindset: **Node.js/Express**, **Core Java**, **Python**, with **Next.js/React** on the frontend when I need the full picture
-- 🤝 Open to collaborating on **DSA grinding**, hackathons, and coding contests
+Software Developer skilled in **JavaScript, TypeScript, Python, Node.js, Express.js, React.js, Next.js, FastAPI**, and SQL/NoSQL databases. I build, maintain, and optimize scalable full-stack applications, REST APIs, and cloud deployments — and I like working end-to-end with minimal hand-holding.
+
+- 💼 Currently a **Software Developer at Ardra Innovations**, building CRM workflow systems at scale
+- 🎓 Pursuing **MCA** at University of Mumbai (CGPA 8.20), with a **B.Sc-IT** (CGPA 8.30) already in the bag
+- 🚀 Shipped 5+ freelance projects on Upwork — auth systems, APIs, DB integration, full deployment pipelines
+- 🧠 Now going deeper into **AI/ML** — embeddings, vector search (pgvector), and LLM-integrated products
+- 🏆 2nd Runner-up at a Project Competition (NGO-donor platform) + Aavishkar-2024 state finalist
 - ⚡ Fun fact: coding for hours >>> everything else
-
----
-
-## 🧠 Currently Exploring: AI + Full Stack
-
-I'm not just using AI tools — I'm building with them. Right now that means:
-
-- Understanding **text embeddings** and vector similarity, not just calling an API
-- Wiring up **pgvector** for semantic search / recommendation logic
-- Using **OpenAI/Gemini APIs** for real product features (not just chatbots)
-- Practical ML concepts over theory-heavy ML — the kind that shows up in interviews and in production
-
----
-
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vedang.Kanade)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedang__k20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vedang-Kanade)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VedangKanade)
 
 ---
 
@@ -44,64 +26,156 @@ I'm not just using AI tools — I'm building with them. Right now that means:
 
 **Languages**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Backend & Frameworks**
+**Backend & APIs**
 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST APIs](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io)
 
-**AI / ML & Data**
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Currently Learning: AI/ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Deploy**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Featured Builds
+## 💼 Experience
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🎟️ SeatSure</h3>
-      <p>Event ticket booking system built with Spring Boot. Focused on real interview-differentiators: JWT auth, and optimistic locking with JPA <code>@Version</code> to safely handle concurrent seat reservations.</p>
-      <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=flat-square&logo=springboot"/>
-      <img src="https://img.shields.io/badge/JWT-Auth-black?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Concurrency-Optimistic%20Locking-orange?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI-Powered Full Stack App</h3>
-      <p>Next.js + Express.js app with a PostgreSQL + pgvector backend. Includes sentiment analysis, text embeddings, and a cosine-similarity based recommender powered by OpenAI/Gemini.</p>
-      <img src="https://img.shields.io/badge/Next.js-Frontend-black?style=flat-square&logo=next.js"/>
-      <img src="https://img.shields.io/badge/pgvector-Embeddings-4169E1?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OpenAI%2FGemini-AI%20API-412991?style=flat-square"/>
-    </td>
-  </tr>
+<tr>
+<td width="70%">
+
+**Software Developer** — Ardra Innovations
+*Jan 2026 – May 2026*
+Developed scalable full-stack apps & backend systems using MERN, PostgreSQL, and MongoDB for CRM workflows. Built optimized REST APIs (indexing, caching) improving backend efficiency by **30%**. Integrated AWS + Redis caching for enterprise workflow automation.
+
+</td>
+<td>
+
+![MERN](https://img.shields.io/badge/-MERN-000?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**Full Stack Developer Intern** — DataCircles Technologies
+*Oct 2025 – Jan 2026*
+Built RBAC-based REST APIs, optimized PostgreSQL/MongoDB queries with indexing & caching (**30%** efficiency gain), and reduced API latency via AWS + session optimization.
+
+</td>
+<td>
+
+![RBAC](https://img.shields.io/badge/-RBAC-000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**Backend Web Developer** — Upwork (Freelance)
+*Dec 2024 – Mar 2025*
+Delivered **5+ freelance projects**: backend APIs, auth systems, DB integration, deployment workflows. Built production-ready business logic using FastAPI, Express.js, PostgreSQL, MongoDB.
+
+</td>
+<td>
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square)
+![Freelance](https://img.shields.io/badge/-Freelance-green?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**JavaScript Full Stack Web Developer Trainee** — RST Forums
+*Apr 2024 – Sept 2024*
+Built responsive web apps with React.js, Node.js, MongoDB following full-stack best practices. Hands-on with API integration, UI development, and deployment workflows.
+
+</td>
+<td>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🚀 Projects
+
+### 🧩 Crew-Canvas — Real-Time Collaboration Platform for Teams
+`Next.js` `Express.js` `MongoDB` `TypeScript` `TanStack Query`
+- Built a real-time collaboration platform with shared workspaces, task management, and live communication tools
+- Designed scalable backend services and optimized API communication for multi-user performance
+
+### 🤝 Care-Connect — Donor–NGO Connection Platform
+`React.js` `Express.js` `MongoDB` `Socket.IO`
+- Built a platform connecting donors and NGOs with structured dashboard management
+- Implemented RBAC and secure authentication, plus real-time updates via Socket.IO
+- 🏆 **2nd Runner-up** at the Project Competition, Deccan Education Society, NMITD
+
+### 🎟️ SeatSure — Event Ticket Booking System *(in progress)*
+`Spring Boot` `JWT` `JPA`
+- Building a booking system focused on real concurrency problems: JWT auth + optimistic locking (`@Version`) for safe concurrent seat reservations
+
+### 🤖 AI-Powered Full Stack App *(in progress)*
+`Next.js` `Express.js` `PostgreSQL` `pgvector` `OpenAI/Gemini`
+- Sentiment analysis, text embeddings, and a cosine-similarity recommender — my entry point into applied AI/ML
+
+---
+
+## 📜 Certifications
+
+- **Software Engineering** — NPTEL/SWAYAM, IIT Kharagpur
+- **Cloud Computing** — NPTEL/SWAYAM, IIT Kharagpur
+
+## 🏆 Achievements & Leadership
+
+- 🥈 **2nd Runner-up** — Project Competition (Care-Connect), Deccan Education Society, NMITD
+- 🎯 State-level finalist — **Aavishkar-2024** (cleared zonal, district & state rounds)
+- 🛠️ Organized **Hackathon '25** at DES — winners went on to represent at SIH '25
+- 🧑‍💼 Core Committee — Lakshya-RooBaRoo '25, NMITD
+- 🧑‍💻 Technical Committee — Nazrana, Guru Nanak Khalsa College
 
 ---
 
@@ -119,11 +193,15 @@ I'm not just using AI tools — I'm building with them. Right now that means:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=VedangKanade20&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vedangkanade.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedang-kanade)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanadevedang2003@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VedangKanade)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vedang__k20)
 
 <p align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=VedangKanade20&icon=2&color=12"/></a>
