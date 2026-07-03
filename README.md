@@ -46,26 +46,11 @@
 
 <img width="60%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=55&section=header&text=PROJECTS&fontSize=30&fontColor=00F7FF&fontAlignY=55" />
 
+**🧩 Crew-Canvas** — Real-time team collaboration platform *(Next.js, Express, MongoDB, TS)*
+
+**🤝 Care-Connect** — Donor × NGO platform, 🏆 2nd Runner-up *(React, Express, Socket.IO)*
+
 </div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🧩 Crew-Canvas
-Real-time team collaboration platform
-`Next.js` `Express` `MongoDB` `TS`
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🤝 Care-Connect
-Donor × NGO platform — 🏆 2nd Runner-up
-`React` `Express` `Socket.IO`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -78,22 +63,21 @@ Donor × NGO platform — 🏆 2nd Runner-up
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedangKanade20&layout=compact&theme=nightowl&hide_border=true" height="165"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VedangKanade20&theme=nightowl&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
 </div>
 
 <br/>
 
 <div align="center">
 
-<!--START_SECTION:activity-->
-<!-- This section auto-fills once you add the "github-readme-activity-graph" action to your repo -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedangKanade20&theme=react-dark&hide_border=true&area=true" width="100%"/>
-<!--END_SECTION:activity-->
+<img width="60%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=55&section=header&text=QUOTE%20OF%20THE%20DAY&fontSize=24&fontColor=00F7FF&fontAlignY=55" />
 
-<br/><br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 [![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VedangKanade)
 [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vedang__k20)
