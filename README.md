@@ -36,7 +36,7 @@
 
 <img width="60%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=55&section=header&text=CURRENTLY&fontSize=30&fontColor=00F7FF&fontAlignY=55" />
 
-**🛠 Software Developer** @ Ardra Innovations &nbsp;|&nbsp; **🎟 Building** SeatSure *(Spring Boot, concurrency-safe bookings)* &nbsp;|&nbsp; **🤖 Learning** AI/ML *(embeddings · pgvector · LLM APIs)*
+**🛠 Software Developer** &nbsp;|&nbsp; **🎟 Building** SeatSure *(Spring Boot, concurrency-safe bookings)* &nbsp;|&nbsp; **🤖 Learning** AI/ML *(embeddings · pgvector · LLM APIs)*
 
 </div>
 
